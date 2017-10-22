@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chin/Documents/of_v0.9.8_osx_release/apps/myApps/ChinTamagotchi/src/main.cpp
+ofMain.h
+/Users/chin/Documents/of_v0.9.8_osx_release/apps/myApps/ChinTamagotchi/src/ofMain.h
+ofApp.h
+/Users/chin/Documents/of_v0.9.8_osx_release/apps/myApps/ChinTamagotchi/src/ofApp.h
+
+/Users/chin/Documents/of_v0.9.8_osx_release/apps/myApps/ChinTamagotchi/src/ofApp.cpp
+ofApp.h
+/Users/chin/Documents/of_v0.9.8_osx_release/apps/myApps/ChinTamagotchi/src/ofApp.h
+iostream
+-
+stdlib.h
+-
+
+/Users/chin/Documents/of_v0.9.8_osx_release/apps/myApps/ChinTamagotchi/src/ofApp.h
+ofMain.h
+/Users/chin/Documents/of_v0.9.8_osx_release/apps/myApps/ChinTamagotchi/src/ofMain.h
+
