@@ -1,2 +1,2 @@
-# Principles-and-Applications-of-Programming-C-
-Lab work from this second year programming module from Goldsmiths, University of London
+# Principles and Applications of Programming C++ 
+This repository holds my lab work from the second year programming module from Goldsmiths, University of London
