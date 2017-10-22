@@ -1,4 +1,6 @@
 ![](https://img.shields.io/badge/-C%2B%2B-blue.svg) 
+![](https://img.shields.io/badge/-Goldsmiths%2C%20University%20of%20London-C5A671.svg) 
+
 
 
 # Principles and Applications of Programming C++ 
