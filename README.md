@@ -10,3 +10,4 @@ This repository holds my lab work from the second year programming module from G
 * [Tamagotchi Program](https://github.com/chxon/Principles-and-Applications-of-Programming-cpp/tree/master/ChinTamagotchi)
 
 * [Pixel Pushing Program](https://github.com/chxon/Principles-and-Applications-of-Programming-cpp/tree/master/ChinPixelPushing)
+* [Pixel Pushing Program II](https://github.com/chxon/Principles-and-Applications-of-Programming-cpp/tree/master/ChinPixelPushing%20II)
