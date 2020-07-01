@@ -4,7 +4,7 @@
 
 
 # Principles and Applications of Programming C++ 
-This repository holds my lab work from the second year programming module from Goldsmiths, University of London
+This repository holds some lab work from the second year programming module from Goldsmiths, University of London
 
 **Contents**
 * [Tamagotchi Program](https://github.com/chxon/Principles-and-Applications-of-Programming-cpp/tree/master/ChinTamagotchi)
